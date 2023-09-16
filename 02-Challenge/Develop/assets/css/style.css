@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*the styles used for the top of the page*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,7 +52,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*the styles used on the lower center text and pictures*/
 section {
     width: 75%;
     display: inline-block;
@@ -76,7 +76,7 @@ section article h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*moves the pictures left or right*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -86,7 +86,7 @@ section article h2{
     float: left;
     margin-right: 25px;
 }
-
+/*the styles used on the 3 side sections of text and pictures*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -113,7 +113,7 @@ aside article img{
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*the styles on the bottom of the page*/
 footer {
     padding: 30px;
     clear: both;
